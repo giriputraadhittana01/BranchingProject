@@ -7,5 +7,5 @@ func main() {
 	fmt.Println("Boba Hello")
 	fmt.Println("Feature A B C")
 	fmt.Println("Feature D E F")
-	fmt.Println("Feature G E F")
+	fmt.Println("Feature G")
 }
