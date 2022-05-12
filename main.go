@@ -7,6 +7,4 @@ func main() {
 	fmt.Println("Boba Hello")
 	fmt.Println("Feature A")
 	fmt.Println("Feature B")
-	fmt.Println("Hello B")
-	fmt.Println("Hello Boba")
 }
